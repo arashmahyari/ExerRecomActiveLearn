@@ -14,7 +14,6 @@ from sklearn.metrics import mean_squared_error
 from utils import CleanData, CleanUser, WordEmbedding, DataPreprationWindow, Recall, CleanDataSorted
 from modules import Net
 from training_net import trainRNNAct, UpdateNet, FineTune, UpdateNet2
-from asso_rule_word2vec import RulesWord2Vec2, RulesWord2Vec, ComparisonDictionary
 from association_rule import RuleMining
 from utils import DistanceExcer, IdentifySimilarUsers, IdentifyUsersHistory, ExerLookup
 from my_own_embedding import ActEmbed
