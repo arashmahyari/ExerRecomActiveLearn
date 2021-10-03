@@ -1,4 +1,4 @@
-# Real Time Learning from Expert in Recommendation Systems with Marginal Distance Probability Distribution
+# Real Time Learning from An Expert in Recommendation Systems with Marginal Distance Probability Distribution
 
 **<em>Abstract:</em>** Recommendation systems play an important role in today's digital world. They have found applications in various applications such as music platforms, e.g., Spotify, and movie streaming services, e.g., Netflix. Less research effort has been devoted to physical exercise recommendation systems. On the other hand, sedentary life styles have become the major driver of several diseases as well as healthcare costs. In this paper, we develop a recommendation system for recommending daily exercise activities to users based on their history, profile and similar users. The developed recommendation system uses a deep recurrent neural network with user-profile attention and temporal attention mechanisms. 
 
